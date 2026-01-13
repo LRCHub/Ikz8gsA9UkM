@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "あなたのマジック / 初音ミク",
+  "base_artist": "春浅葱 / Haruasagi",
+  "createdAt": "2026-01-13T13:19:02.515166Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あなたのマジック",
+      "artist": "春浅葱 feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/pl_01_あなたのマジック_春浅葱_feat._初音ミク.txt"
+    }
+  ]
+}
